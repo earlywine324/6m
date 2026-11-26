@@ -4,7 +4,7 @@ Logo-led black, white, and pink GTA VI community website concept with an interac
 
 ## Pages
 - `index.html`: community homepage with numbered image placeholders and command-staff selector.
-- `departments.html`: five departments, each with three command-staff headshot slots. Parker leads Highway Patrol; Garrett leads Police.
+- `departments.html`: six departments, each with three command-staff headshot slots. Parker leads Highway Patrol; Garrett leads Police.
 - `IMAGE-GUIDE.md`: image and headshot slot numbering.
 - `roadmap.html`: progress, milestones, updates, and a browser-local demo editor.
 - `Goodtime State Roleplay-Mockup.html`: self-contained homepage export; roadmap links require the other files alongside it.

@@ -19,3 +19,6 @@ Image placeholders:
 - 24: Communications department image
 
 Command profiles are configured in home.js. The same configuration powers the homepage selector and full departments directory. Ranks and unprovided names remain placeholders. Use portrait-oriented images for staff; landscape images for banners and department scenes.
+
+- 25: Sheriff’s Office department image
+- 26–28: Sheriff’s Office command headshots (names and ranks forthcoming)
